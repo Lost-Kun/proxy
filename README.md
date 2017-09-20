@@ -17,6 +17,6 @@
 
 参考资料：
 
-         http://www.jianshu.com/p/50d82333b22a
+         <http://www.jianshu.com/p/50d82333b22a>
 
-         http://blog.csdn.net/autumn84/article/details/44816947
+         <http://blog.csdn.net/autumn84/article/details/44816947>

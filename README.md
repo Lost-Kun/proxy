@@ -16,6 +16,7 @@
          （4）Internet选项的局域网设置中配置代理（目前只能代理http请求）
 
 参考资料：
-         <http://www.jianshu.com/p/50d82333b22a>
 
-         <http://blog.csdn.net/autumn84/article/details/44816947>
+         http://www.jianshu.com/p/50d82333b22a
+
+         http://blog.csdn.net/autumn84/article/details/44816947
